@@ -1,0 +1,21 @@
+# 2.Sets and Subsets
+### Use Latex Programming to show your solutions
+## •If A = \{2, 3, 4, 5\}, and B = \{ x ∈ ℕ | x is even }.
+
+## Is \(A \subset B\)? Show a proof.
+
+\documentclass{article}
+\usepackage{amssymb}
+
+\begin{documentWe need to show that every element in $A$ is also in $B$.
+
+$$ A = \{2, 3, 4, 5\} $$
+
+$$ B = \{x \in \mathbb{N} \mid x \text{ is even}\} = \{2, 4, 6, 8, \ldots\} $$
+
+
+
+"{2,3,4,5} $\\subset$ {2,4,6,8,10...} = ${False}$"
+
+Since every element in $A$ is also in $B$, we can conclude that $A \subseteq B$.
+u
